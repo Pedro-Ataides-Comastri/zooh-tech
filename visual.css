@@ -1,0 +1,41 @@
+table{width: 100%;
+height: 98vh;}
+
+.ini{background-color: #DDE4FF;
+ 
+width: 1250px;
+height: 135px;}
+
+.log{background-color: #DDE4FF;
+    text-align: right; 
+width: 1250px;
+height: 135px;}
+
+.log2{background-color: #ffffff;
+text-align: center; 
+width: 1250px;
+height:135px;}
+
+.log3{background-color: #d7d4e3;
+width: 1250px;
+height:42px;
+text-align: right;}
+
+.pg2{background-color: #d7d4e3;
+width: 1250px;
+height: 42px;}
+  
+.log4{text-align: right;}
+
+.but2{background-color: #d7d4e3;
+text-align: center;}
+
+.bu{background-color: #d7d4e3;}
+
+.dda{background-color: #ffffff }
+
+
+
+
+button{border: 0;}
+body { margin: 0;;}
